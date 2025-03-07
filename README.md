@@ -13,6 +13,39 @@ Once the "Data_Science.db" were created I used it for AI-Powered Data Science an
 
 ![alt image](https://github.com/boprosv/RAG/blob/main/Screenshot%202025-03-07%20100944.png?raw=true)
 
-It has the option for different databases and model selection on the sidebar.
+It can be customized.
 
 ![alt image](https://github.com/boprosv/RAG/blob/main/Screenshot%202025-03-07%20100909.png?raw=true)
+
+How Customization Works:
+
+Domain-Specific Knowledge Bases
+The assistant can be connected to custom databases or knowledge repositories relevant to your industry or problem domain. For example:
+
+Healthcare: Integrate medical research papers, clinical guidelines, or patient data.
+
+Finance: Connect to financial reports, market analysis, or regulatory documents.
+
+E-commerce: Use product catalogs, customer reviews, or sales data.
+
+Engineering: Incorporate technical manuals, design specifications, or troubleshooting guides.
+
+Tailored Prompts and Responses
+The system’s prompts and response templates can be customized to align with your specific needs. For instance:
+
+Adjust the tone (e.g., formal, conversational, technical).
+
+Modify the depth of responses (e.g., concise summaries vs. detailed explanations).
+
+Add domain-specific terminology or jargon.
+
+Integration with Proprietary Data
+The assistant can be trained or fine-tuned on your organization’s proprietary data, ensuring that it provides answers and insights that are unique to your business.
+
+Multi-Domain Support
+The assistant can handle multiple domains simultaneously. For example, it can switch between providing Data Science advice and offering insights into marketing strategies, all within the same conversation.
+
+
+In my line of work, this AI-powered application bridges the gap between the business and technical sides, enabling faster problem-solving by providing instant access to relevant insights and data-driven decision-making.
+
+
