@@ -5,18 +5,6 @@ In this project, I built a Streamlit application that serves as an AI copilot fo
 
 To build a knowledge database, I developed an AI-powered application that processes multiple files (including PDFs and other formats), extracts meaningful insights using OpenAI’s embedding model, and stores the data in ChromaDB for fast and intelligent retrieval. I used 10 different books, making this a highly versatile and efficient assistant for creating customized knowledge databases.
 
-# Initialize OpenAI Embeddings
-embeddings = OpenAIEmbeddings(model="text-embedding-ada-002", api_key=os.environ["OPENAI_API_KEY"])
-
-# Create (or load existing) ChromaDB instance
-vectordb = Chroma(persist_directory="Data_Science.db", embedding_function=embeddings)
-
-# Add newly processed document chunks to the database
-vectordb.add_documents(chunks)
-vectordb.persist()  # Save embeddings for future use
-
-st.success(f"📦 Successfully stored all embeddings in 'Data_Science.db'.")
-
 ![Alt image}()
 
 Once the "Data_Science.db" were created I 
