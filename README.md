@@ -15,4 +15,4 @@ Once the "Data_Science.db" were created I used it for AI-Powered Data Science an
 
 It has the option for different databases and model selection on the sidebar.
 
-![alt image]()
+![alt image](https://github.com/boprosv/RAG/blob/main/Screenshot%202025-03-07%20100909.png?raw=true)
