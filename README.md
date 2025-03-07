@@ -9,4 +9,4 @@ To build a knowledge database, I developed an AI-powered application that proces
 
 Once the "Data_Science.db" were created I used it for AI-Powered Data Science and Machine Learning Knowledge Assistant.
 
-![alt image]()
+![alt image](https://github.com/boprosv/RAG/blob/main/Screenshot%202025-03-07%20100848.png?raw=true)
