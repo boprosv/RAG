@@ -15,7 +15,7 @@ Once the "Data_Science.db" were created I used it for AI-Powered Data Science an
 
 It can be customized.
 
-![alt image](https://github.com/boprosv/RAG/blob/main/Screenshot%202025-03-07%20100909.png?raw=true)
+![alt image](https://github.com/boprosv/RAG/blob/main/Screenshot%202025-05-05%20104134.png?raw=true)
 
 How Customization Works:
 
