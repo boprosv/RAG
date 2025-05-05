@@ -5,7 +5,7 @@ In this project, I built a Streamlit application that serves as an AI copilot fo
 
 To build a knowledge database, I developed an AI-powered application that processes multiple files (including PDFs and other formats), extracts meaningful insights using OpenAI’s embedding model, and stores the data in ChromaDB for fast and intelligent retrieval. I used 10 different books, making this a highly versatile and efficient assistant for creating customized knowledge databases.
 
-![alt image](https://github.com/boprosv/RAG/blob/main/Screenshot%202025-03-07%20111146.png?raw=true)
+![alt image](https://github.com/boprosv/RAG/blob/main/Screenshot%202025-05-05%20102945.png?raw=true)
 
 Once the "Data_Science.db" were created I used it for AI-Powered Data Science and Machine Learning Knowledge Assistant.
 
